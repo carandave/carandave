@@ -62,11 +62,11 @@
   </a>
 
   <a href="https://github.com/carandave/AMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carandave&repo=Laravel-OAuth-&theme=tokyonight&animate=true" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carandave&repo=AMS&theme=tokyonight&animate=true" alt="Project 1" />
   </a>
 
 <a href="https://github.com/carandave/Post-Auth-Crud-REST-API-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carandave&repo=Laravel-OAuth-&theme=tokyonight&animate=true" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carandave&repo=Post-Auth-Crud-REST-API-Backend&theme=tokyonight&animate=true" alt="Project 1" />
   </a>
 </p>
 

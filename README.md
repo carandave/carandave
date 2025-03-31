@@ -57,10 +57,19 @@
 ## 🔥 Featured Projects
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=davecarandang&repo=project1&theme=tokyonight&animate=true" alt="Project 1" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=davecarandang&repo=project2&theme=tokyonight&animate=true" alt="Project 2" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=davecarandang&repo=project3&theme=tokyonight&animate=true" alt="Project 3" /></a>
+  <a href="https://github.com/carandave/Laravel-OAuth-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carandave&repo=Laravel-OAuth-&theme=tokyonight&animate=true" alt="Project 1" />
+  </a>
+
+  <a href="https://github.com/carandave/AMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carandave&repo=Laravel-OAuth-&theme=tokyonight&animate=true" alt="Project 1" />
+  </a>
+
+<a href="https://github.com/carandave/Post-Auth-Crud-REST-API-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carandave&repo=Laravel-OAuth-&theme=tokyonight&animate=true" alt="Project 1" />
+  </a>
 </p>
+
 
 ---
 

@@ -1,7 +1,7 @@
 ### Hi there, I'm **John Dave Carandang** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=🚀+Full+Stack+Web+Developer+|+Freelancer|+Programmer&center=true&vCenter=true&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=🚀+Full+Stack+Web+Developer+|+Freelancer+|+Programmer&center=true&vCenter=true&repeat=false" />
 </p>
 
 <p align="center">

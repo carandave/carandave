@@ -82,25 +82,10 @@
 
 ---
 
-## 🎵 Coding Vibes
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false&animate=true" alt="Spotify Now Playing" />
-</p>
-
----
-
-## 🎬 Fun Animated Widgets
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="300px" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/davecarandang/davecarandang/blob/main/assets/coding.gif" width="500px" style="animation: float 3s ease-in-out infinite;" />
-</p>
-
----
-
 🎉 *Let's build something amazing together!* 🚀
+
+<p align="center">
+  <b>Copyright © 2025 davecarandang.</b><br>
+  All rights reserved.
+</p>
+
